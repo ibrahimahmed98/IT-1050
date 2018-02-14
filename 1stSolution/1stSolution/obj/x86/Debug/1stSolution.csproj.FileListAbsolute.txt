@@ -1,0 +1,5 @@
+/Users/himo/Desktop/1stSolution/1stSolution/bin/Debug/1stSolution.exe
+/Users/himo/Desktop/1stSolution/1stSolution/bin/Debug/1stSolution.pdb
+/Users/himo/Desktop/1stSolution/1stSolution/obj/x86/Debug/1stSolution.csproj.CoreCompileInputs.cache
+/Users/himo/Desktop/1stSolution/1stSolution/obj/x86/Debug/1stSolution.exe
+/Users/himo/Desktop/1stSolution/1stSolution/obj/x86/Debug/1stSolution.pdb
