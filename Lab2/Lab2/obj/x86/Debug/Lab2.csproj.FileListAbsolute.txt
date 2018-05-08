@@ -1,0 +1,5 @@
+/Users/himo/Documents/GitHub/Lab2/Lab2/bin/Debug/Lab2.exe
+/Users/himo/Documents/GitHub/Lab2/Lab2/bin/Debug/Lab2.pdb
+/Users/himo/Documents/GitHub/Lab2/Lab2/obj/x86/Debug/Lab2.csproj.CoreCompileInputs.cache
+/Users/himo/Documents/GitHub/Lab2/Lab2/obj/x86/Debug/Lab2.exe
+/Users/himo/Documents/GitHub/Lab2/Lab2/obj/x86/Debug/Lab2.pdb
