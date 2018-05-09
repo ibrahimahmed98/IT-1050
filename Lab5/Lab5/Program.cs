@@ -4,13 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Board b = new Board();
-            b.Draw();
+            Board a = new Board();
+            a.Draw();
             while (true)
             {
-                b.Move();
+                a.Move();
                 System.Console.Clear();
-                b.Draw();
+                a.Draw();
             }
         }
     }
