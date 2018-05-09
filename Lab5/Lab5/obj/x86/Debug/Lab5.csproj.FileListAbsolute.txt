@@ -1,0 +1,5 @@
+/Users/himo/Documents/GitHub/IT-1050/Lab5/Lab5/bin/Debug/Lab5.exe
+/Users/himo/Documents/GitHub/IT-1050/Lab5/Lab5/bin/Debug/Lab5.pdb
+/Users/himo/Documents/GitHub/IT-1050/Lab5/Lab5/obj/x86/Debug/Lab5.csproj.CoreCompileInputs.cache
+/Users/himo/Documents/GitHub/IT-1050/Lab5/Lab5/obj/x86/Debug/Lab5.exe
+/Users/himo/Documents/GitHub/IT-1050/Lab5/Lab5/obj/x86/Debug/Lab5.pdb
