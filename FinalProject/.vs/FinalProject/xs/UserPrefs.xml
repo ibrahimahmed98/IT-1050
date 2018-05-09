@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{9C004FE8-ECB5-44BF-8B56-0684DAEF8DB2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinalProject/Program.cs">
+    <Files>
+      <File FileName="FinalProject/Program.cs" Line="17" Column="1" />
+      <File FileName="FinalProject/Passenger.cs" Line="18" Column="27" />
+      <File FileName="FinalProject/Elevator.cs" Line="36" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/himo/Documents/GitHub/IT-1050/FinalProject/FinalProject/Program.cs" relfile="FinalProject/Program.cs" line="7" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FinalProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

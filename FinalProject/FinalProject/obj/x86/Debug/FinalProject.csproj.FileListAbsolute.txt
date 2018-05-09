@@ -1,0 +1,5 @@
+/Users/himo/Documents/GitHub/IT-1050/FinalProject/FinalProject/bin/Debug/FinalProject.exe
+/Users/himo/Documents/GitHub/IT-1050/FinalProject/FinalProject/bin/Debug/FinalProject.pdb
+/Users/himo/Documents/GitHub/IT-1050/FinalProject/FinalProject/obj/x86/Debug/FinalProject.csproj.CoreCompileInputs.cache
+/Users/himo/Documents/GitHub/IT-1050/FinalProject/FinalProject/obj/x86/Debug/FinalProject.exe
+/Users/himo/Documents/GitHub/IT-1050/FinalProject/FinalProject/obj/x86/Debug/FinalProject.pdb
